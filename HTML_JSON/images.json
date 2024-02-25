@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "image": "https://media.gettyimages.com/id/1370911649/photo/health-care-concept-with-geriatric-doctor-consulting-examining-elderly-senior-aged-adult-in.jpg?s=612x612&w=gi&k=20&c=HpXSDlUxZNARsmH4jHvk_Vo04JEwvMWCYbOOj1ghqkQ=",
+        "name": "Dr. Ramesh",
+        "specialty": "Dermatologist"
+    },
+    {
+        "id": 2,
+        "image": "https://thumbs.dreamstime.com/b/doctor-working-laptop-computer-medical-workspace-office-focus-stethoscope-106761742.jpg",
+        "name": "Dr. Suresh",
+        "specialty": "Cardiologist"
+    },
+    {
+        "id": 3,
+        "image": "https://media.istockphoto.com/id/1315185719/photo/experienced-middle-aged-family-doctor-showing-analysis-results-on-tablet-computer-to-male.jpg?s=612x612&w=0&k=20&c=s6t4qMkfh1yMhxrsP7vDM5CVgRCSI4w7DjckRtdhU-I=",
+        "name": "Dr. Priya",
+        "specialty": "Pediatrician"
+    },
+    {
+        "id": 4,
+        "image": "https://media.gettyimages.com/id/170114490/photo/asian-male-doctor-portrait.jpg?s=612x612&w=gi&k=20&c=yzPfdThrAs1KO_00ZgyYTc6ZQhCqLGYc_GDqrG12hW0=",
+        "name": "Dr. Rajesh",
+        "specialty": "Orthopedic Surgeon"
+    },
+    {
+        "id": 5,
+        "image": "https://media.istockphoto.com/id/1356785682/photo/successful-female-doctor-isolated-on-grey-background.jpg?s=612x612&w=0&k=20&c=Vq_2Nwx2I2QI7Trg9x5byBzqZ9Mh_fnyxQctH_kpPU4=",
+        "name": "Dr. Anusha",
+        "specialty": "Neurologist"
+    },
+    {
+        "id": 6,
+        "image": "https://www.shutterstock.com/image-photo/portrait-happy-african-man-doctor-260nw-1287649657.jpg",
+        "name": "Dr. Sanjay",
+        "specialty": "Psychiatrist"
+    },
+    {
+        "id": 7,
+        "image": "https://media.istockphoto.com/id/489362281/photo/you-can-put-your-trust-in-me.jpg?s=612x612&w=0&k=20&c=bl9qLusKwQ_fHHQ-QBmC3VR4XQNj8kfhavfZSW3Pqvo=",
+        "name": "Dr. Arjun",
+        "specialty": "Ophthalmologist"
+    },
+    {
+        "id": 8,
+        "image": "https://media.istockphoto.com/id/1404962365/photo/female-doctor-examining-a-patient-at-her-office.jpg?s=612x612&w=0&k=20&c=ASz3AWonL9oBb4qI-aKi69wZmZro1JXJVhS9zK4Lv00=",
+        "name": "Dr. Maya",
+        "specialty": "Obstetrician"
+    },
+    {
+        "id": 9,
+        "image": "https://i.pinimg.com/736x/54/10/dc/5410dc13df07c7a0d3d043a24c0c993f.jpg",
+        "name": "Dr. Akash",
+        "specialty": "Urologist"
+    },
+    {
+        "id": 10,
+        "image": "https://media.istockphoto.com/id/1344792109/photo/doctor-measuring-blood-pressure-to-a-smiling-woman.jpg?s=612x612&w=0&k=20&c=uDDX8TNk_ZyMUO3TsIY1dsk9iF6wPGfCahCwUxAA5_8=",
+        "name": "Dr. Nisha",
+        "specialty": "Endocrinologist"
+    },
+    {
+        "id": 11,
+        "image": "https://health.wordpress.clevelandclinic.org/wp-content/uploads/sites/3/2023/03/doctor-Patient-at-Appointment-1400046250-770x533-1.jpg",
+        "name": "Dr. Karthik",
+        "specialty": "Gastroenterologist"
+    },
+    {
+        "id": 12,
+        "image": "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg",
+        "name": "Dr. Manoj",
+        "specialty": "Hematologist"
+    },
+    {
+        "id": 13,
+        "image": "https://nationaltoday.com/wp-content/uploads/2020/03/Doctors-1.jpg",
+        "name": "Dr. Deepa",
+        "specialty": "Oncologist"
+    },
+    {
+        "id": 14,
+        "image": "https://www.shutterstock.com/image-photo/full-length-portrait-doctor-clipboard-600w-796014745.jpg",
+        "name": "Dr. Meera",
+        "specialty": "Rheumatologist"
+    },
+    {
+        "id": 15,
+        "image": "https://media.gettyimages.com/id/1366811293/photo/male-doctor-discussing-with-patient-in-clinic.jpg?s=612x612&w=gi&k=20&c=CB_fDEGvLZr0-TEj_ZxvGZYwQQCsn5P9jocJjizpefY=",
+        "name": "Dr. Raj",
+        "specialty": "Pulmonologist"
+    },
+    {
+        "id": 16,
+        "image": "https://media.istockphoto.com/id/1493534738/photo/black-woman-doctor-portrait-and-tablet-with-medical-team-in-hospital-ready-for-healthcare.jpg?s=612x612&w=0&k=20&c=6HZ93BHAhgvuM8h_7F-CRzRVgOp_-OFqgLV3dqZih2M=",
+        "name": "Dr. Priyanka",
+        "specialty": "Allergist"
+    },
+    {
+        "id": 17,
+        "image": "https://media.istockphoto.com/id/1371010166/photo/portrait-of-a-young-dentist-showing-thumbs-up-in-his-consulting-room.jpg?s=612x612&w=0&k=20&c=kGF6soqO3GNXIoB-fVEMwhrQrTRFLwSZl0y0tlmVQeo=",
+        "name": "Dr. Vinay",
+        "specialty": "Dentist"
+    },
+    {
+        "id": 18,
+        "image": "https://newdpz.com/wp-content/uploads/2023/07/30-Best-Doctor-Dpz-HD-Images.jpeg",
+        "name": "Dr. Harini",
+        "specialty": "ENT Specialist"
+    },
+    {
+        "id": 19,
+        "image": "https://www.kauveryhospital.com/doctorimage/recent/Dr-Janish-Critical-Care2022-08-30-12:03:09pm.jpg",
+        "name": "Dr. Kavitha",
+        "specialty": "Neonatologist"
+    },
+    {
+        "id": 20,
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/028/287/555/small/an-indian-young-female-doctor-isolated-on-green-ai-generated-photo.jpg",
+        "name": "Dr. Aravind",
+        "specialty": "Nephrologist"
+    },
+    {
+        "id": 21,
+        "image": "https://www.postbaccprogramguide.com/app/uploads/2022/07/iStock-1189304032.jpg",
+        "name": "Dr. Lakshmi",
+        "specialty": "Ophthalmologist"
+    },
+    {
+        "id": 22,
+        "image": "https://www.kauveryhospital.com/doctorimage/recent/Dr-Ramu2019-03-30%2012:57:21pm.jpg",
+        "name": "Dr. Priyadarshini",
+        "specialty": "Oncologist"
+    },
+    {
+        "id": 23,
+        "image": "https://newdpz.com/wp-content/uploads/2023/07/30-Best-Doctor-Dpz-HD-Images.jpeg",
+        "name": "Dr. Prakash",
+        "specialty": "Pediatrician"
+    },
+    {
+        "id": 24,
+        "image": "https://nationaltoday.com/wp-content/uploads/2020/03/Doctors-1.jpg",
+        "name": "Dr. Sangeetha",
+        "specialty": "Psychiatrist"
+    },
+    {
+        "id": 25,
+        "image": "https://media.istockphoto.com/id/1390886692/photo/homecare-visit-with-a-senior-gentleman.jpg?s=612x612&w=0&k=20&c=Nczw0lwNa2-j33GZgVPMrMl7jmY9XyyuFeBXk_nxj6k=",
+        "name": "Dr. Vijay",
+        "specialty": "Pulmonologist"
+    }
+]
